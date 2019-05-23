@@ -22,6 +22,7 @@ public class Week3StarterCode {
         System.out.println(s1.getFirstName() + " "+s1.getID());
         System.out.println("See you again!");
         System.out.println("Week 3 -Thursday");
+        Ssyem.out.println("Welcome!");
     }
     
 }
